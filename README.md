@@ -2,7 +2,7 @@
 This template helps you refine your ideas to become publishable papers.
 
 ## Venue 
-(which conference or journal is targeted; explain reason, if choice is untraditional)? CMPT340 Project report.
+(which conference or journal is targeted; explain reason, if choice is untraditional)? 
 ## Title 
 (draft title that contains the main message of the paper)
 ## Authors 
